@@ -16,8 +16,8 @@
         <!-- 头部 -->
         <header class="header">
             <div class="header-inner">
-                <a class="logo" href="?file=首页">
-                    <img src="amWiki/images/logo.png" /><i></i>
+                <a class="logo" href="?file=Home">
+                    <img src="assets/logo.png" /><i></i>
                     <b>Glenn's Personal Wiki</b>
                     <span>v0.1 By Glenn</span>
                 </a>
@@ -35,10 +35,10 @@
                     <svg>
                         <use xlink:href="#icon:navFilter"></use>
                     </svg>
-                    <input type="text" id="menuFilter" value="" placeholder="请输入筛选条件" title="请输入筛选条件" />
-                    <i class="off" title="清空筛选">&times;</i>
+                    <input type="text" id="menuFilter" value="" placeholder="Conditions" title="Condistions" />
+                    <i class="off" title="Clear Choose">&times;</i>
                 </div>
-                <div class="menu-search" id="searchShow" title="全库搜索">
+                <div class="menu-search" id="searchShow" title="Search">
                     <svg>
                         <use xlink:href="#icon:search"></use>
                     </svg>
@@ -54,10 +54,10 @@
                 <article class="markdown-body" id="view"></article>
                 <!-- 上下翻页 -->
                 <div class="main-sibling" id="mainSibling">
-                    <p><span>上一篇：</span>
+                    <p><span>Previous:</span>
                         <a href="#"></a>
                     </p>
-                    <p><span>下一篇：</span>
+                    <p><span>Next:</span>
                         <a href="#"></a>
                     </p>
                 </div>
@@ -66,11 +66,11 @@
                     <div class="search-update">
                         <input type="button" id="searchUpdate" value="更新所有缓存" />
                         <div class="text">
-                            <p>上次完全更新：<time id="cacheLasttime">0000-00-00 00:00:00</time></p>
-                            <p>文档总数：<b id="cacheDocTotal">0</b> / <span>已缓存：<i id="cacheState">0%</i></span></p>
+                            <p>Last Update Time:<time id="cacheLasttime">0000-00-00 00:00:00</time></p>
+                            <p>Documents Total:<b id="cacheDocTotal">0</b> / <span>Cache:<i id="cacheState">0%</i></span></p>
                         </div>
                     </div>
-                    <h2>全库搜索</h2>
+                    <h2>Search</h2>
                     <div class="search-input">
                         <input type="text" id="searchText" placeholder="请输入搜索内容" />
                         <input type="button" id="search" value="搜 索"/>
@@ -99,7 +99,7 @@
                     </div>
                 </div>
                 <!-- 接口测试 -->
-                
+
             </div>
         </div>
         <!-- 签名 -->
@@ -131,7 +131,7 @@
             <script type="text/javascript" src="amWiki/js/amWiki.storage.js"></script>
             <script type="text/javascript" src="amWiki/js/amWiki.search.js"></script>
             <script type="text/javascript" src="amWiki/js/amWiki.docs.js"></script>
-            
+
             <script type="text/javascript" src="amWiki/js/amWiki.js"></script>
         </div>
         <!-- svg -->
