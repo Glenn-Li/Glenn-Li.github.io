@@ -172,7 +172,7 @@ $(function () {
             } else {
                 $mainSibling.find('a').eq(num)
                     .removeAttr('href')
-                    .text('没有了');
+                    .text('No More.');
             }
         };
         setSiblingNav(0, getDocLink('prev', $item));
@@ -182,7 +182,7 @@ $(function () {
 
     //改变导航显示
     var changeNav = function (path) {
-        if (path == '首页') {
+        if (path == 'HomePage') {
             $menuBar.find('h4').addClass('on');
             $menuBar.find('a').removeClass('on');
             changeSibling(null);
@@ -226,14 +226,14 @@ $(function () {
             if (state == 'error') {
                 //如果本地缓存为空，且服务器文档读取失败，跳回首页
                 if (localDoc == '') {
-                    docs.loadPage('首页', function (state, content) {
+                    docs.loadPage('HomePage', function (state, content) {
                         if (state == 'success') {
                             docs.renderDoc(content);
-                            storage.saveDoc('首页', content);
+                            storage.saveDoc('HomePage', content);
                         }
                     });
                     if (HISTORY_STATE) {
-                        history.replaceState({path: '首页'}, '', '?file=首页');
+                        history.replaceState({path: 'HomePage'}, '', '?file=HomePage');
                     }
                 }
                 //如果本地缓存不为空，但服务器文档读取失败
@@ -299,7 +299,7 @@ $(function () {
     //解析地址参数
     var path = tools.getURLParameter('file');
     if (!path) {
-        path = '首页';
+        path = 'HomePage';
     } else {
         path = decodeURI(path);
     }
@@ -354,5 +354,3 @@ $(function () {
     }
 
 });
-
-

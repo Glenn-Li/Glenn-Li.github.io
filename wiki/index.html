@@ -64,7 +64,7 @@
                 <!-- 全库搜索 -->
                 <div class="search-box" id="searchBox">
                     <div class="search-update">
-                        <input type="button" id="searchUpdate" value="更新所有缓存" />
+                        <input type="button" id="searchUpdate" value="Update Caches" />
                         <div class="text">
                             <p>Last Update Time:<time id="cacheLasttime">0000-00-00 00:00:00</time></p>
                             <p>Documents Total:<b id="cacheDocTotal">0</b> / <span>Cache:<i id="cacheState">0%</i></span></p>
@@ -72,13 +72,13 @@
                     </div>
                     <h2>Search</h2>
                     <div class="search-input">
-                        <input type="text" id="searchText" placeholder="请输入搜索内容" />
-                        <input type="button" id="search" value="搜 索"/>
+                        <input type="text" id="searchText" placeholder="Context" />
+                        <input type="button" id="search" value="Search"/>
                     </div>
                     <div class="search-results" id="results">
                         <div class="search-result-message" id="resultMsg"></div>
                         <ul class="search-list"></ul>
-                        <div class="search-result-more" id="resultMore">显示更多</div>
+                        <div class="search-result-more" id="resultMore">More</div>
                         <script id="template:searchResult" type="text/html">
                             <li class="search-item">
                                 <a href="?file={{path}}">
@@ -88,8 +88,8 @@
                                         {{content}}
                                     </div>
                                     <div class="bottom">
-                                        <p>位置：<span>{{path}}</span></p>
-                                        <div class="time">最后缓存于
+                                        <p>Location:<span>{{path}}</span></p>
+                                        <div class="time">Last Cache
                                             <time>{{time}}</time>
                                         </div>
                                     </div>
@@ -104,7 +104,7 @@
         </div>
         <!-- 签名 -->
         <footer>
-            <div class="signature">Powered by
+            <div class="signature">Support by
                 <a href="https://github.com/TevinLi/amWiki" target="_blank">amWiki</a>
             </div>
         </footer>
@@ -116,7 +116,7 @@
                         <use xlink:href="#backTop"></use>
                     </svg>
                 </a>
-                <a href="#" class="back-text">返回顶部</a>
+                <a href="#" class="back-text">TOP</a>
             </div>
         </aside>
         <!-- js -->
