@@ -15,7 +15,7 @@
 - [amWiki转接到任意域名进行接口测试](?file=001-学习amWiki/07-amWiki转接到任意域名进行接口测试 "amWiki转接到任意域名进行接口测试")
 
 ##### English_Study
-- [Home](?file=003-English_Study/0-Home "Home")
+- [Summary of 2-Elementary](?file=003-English_Study/0-Summary of 2-Elementary "Summary of 2-Elementary")
 
 ##### 文档示范
 - [超长文档页内目录示例](?file=002-文档示范/002-超长文档页内目录示例 "超长文档页内目录示例")
