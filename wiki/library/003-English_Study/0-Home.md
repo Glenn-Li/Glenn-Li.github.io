@@ -1,9 +1,40 @@
+>1. [Unit 1	Entertainment	 娱乐](#Unit1Entertainment娱乐 "Unit 1	Entertainment	 娱乐")
+	1. [Part 1：](#Part1： "Part 1：")
+	1. [Part 2：](#Part2： "Part 2：")
+	1. [Part 3:](#Part3: "Part 3:")
+	1. [Part 4：](#Part4： "Part 4：")
+1. [Unit 2 Describing people](#Unit2Describingpeople "Unit 2 Describing people")
+	1. [Part 1](#Part1 "Part 1")
+	1. [Part 2：](#Part2： "Part 2：")
+	1. [Part 3：](#Part3： "Part 3：")
+	1. [Part 4:](#Part4: "Part 4:")
+	1. [Uint 3 The past](#Uint3Thepast "Uint 3 The past")
+	1. [Part 2：](#Part2： "Part 2：")
+	1. [Part 3：](#Part3： "Part 3：")
+	1. [Part 4:](#Part4: "Part 4:")
+1. [Uint 4 - Milestones](#Uint4-Milestones "Uint 4 - Milestones")
+	1. [Part 1：](#Part1： "Part 1：")
+	1. [Part 2](#Part2 "Part 2")
+	1. [Part 3](#Part3 "Part 3")
+	1. [Part 4](#Part4 "Part 4")
+1. [Uint 5 - Welcome](#Uint5-Welcome "Uint 5 - Welcome")
+	1. [Part 1](#Part1 "Part 1")
+	1. [Part 2](#Part2 "Part 2")
+	1. [Part 3](#Part3 "Part 3")
+	1. [Part 4](#Part4 "Part 4")
+1. [Uint 6 - Vacations](#Uint6-Vacations "Uint 6 - Vacations")
+	1. [Part 1](#Part1 "Part 1")
+	1. [Part 2](#Part2 "Part 2")
+	1. [Part 3](#Part3 "Part 3")
+	1. [Part 4](#Part4 "Part 4")
 
-# Unit 1	Entertainment	 娱乐
+# Summary of 2-Elementary
 
-## Part 1：
+## Unit 1	Entertainment	 娱乐
 
-### 1、不定式和动名词
+### Part 1：
+
+#### 1、不定式和动名词
 
 动名词和不定式用于谈论复杂的观点。动名词由 -ing 构成，不定式由 to 加动词构成。有些动词后面既可用动名词，也能用不定式。
 
@@ -30,7 +61,7 @@
 	began to snow
 	began snowing
 
-### 2、表达能力
+#### 2、表达能力
 使用单词 can 搭配动词描述能力。
 
 	John can drive.
@@ -54,7 +85,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 
 	I'm terrible at driving.
 
-### 3、询问和谈选择
+#### 3、询问和谈选择
 使用类似这样的问题向他人询问他们想做的事情和可以从事的活动：
 
 	What do you want to do?
@@ -76,9 +107,9 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	What else is there to do?
 	What else is going on?
 
-## Part 2：
+### Part 2：
 
-### 时间和地点介词：
+#### 时间和地点介词：
 
 三个时间和地点介词 in、on 和 at。
 
@@ -97,7 +128,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	In the morning
 	At night
 
-### 请求帮助
+#### 请求帮助
 
 	Could you do me a favor?
 	Could you help me?
@@ -105,27 +136,27 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	I'm sorry, but I'm really busy right now.
 	I'm really sorry, but I can't help you.
 
-### 阅读演出信息
+#### 阅读演出信息
 阅读演出描述时，你可以试着快速浏览信息，寻找关键词。不要在不懂的单词上花费大量时间，关注你知道意思的单词。
 下为关键词的一些分类：
 
-#### 演出名称：
+##### 演出名称：
 
 	concert, picnic, lecture, play, musical
 
-#### 演出地点：
+##### 演出地点：
 
 	auditorium, theater, aquarium, concert hall
 
-#### 时间和日期：
+##### 时间和日期：
 
 	on February 6, in the evening, at 5 o'clock
 
-#### 地点：
+##### 地点：
 
 	at Martina's restaurant, in Central Park, on 5th Street
 
-#### 这里还有一些其他可能的关键词：
+##### 这里还有一些其他可能的关键词：
 
 	admission 入场费
 	perform	表演
@@ -133,16 +164,16 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	ticket	票
 	available	可用的，可得到的
 
-#### 专有名词
+##### 专有名词
 
 我们使用专有名词来命名事物，比如人、公司或地点。专有名词首字母始终大写，这样易于辨认。不要被这些名词所迷惑。在这些名称中寻找你明白的单词。比如，在 Central Park 中，你可以看到你知道意思的单词 park。在下列专有名词中，各种地点的关键词以粗体表示，通过这些词帮你理解该短语。
 	The Monterey Bay Aquarium
 	The Empire State Building
 	Harry's Bar and Grill
 
-## Part 3:
+### Part 3:
 
-#### 有关演出的形容词
+##### 有关演出的形容词
 许多可以用来描述演出的形容词都以 -ing 结尾，从动词变化而来。比如，形容词 relaxing 来自动词 relax。
 
 	interesting	有趣的           
@@ -151,7 +182,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	exciting	令人兴奋的
 	surprising   令人惊讶的
  
-#### 以下是其他一些描述演出的形容词。
+##### 以下是其他一些描述演出的形容词。
  
 	fun  	快乐的，有趣的
 	incredible	精彩的
@@ -160,14 +191,14 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	wonderful	出色的
 	terrible	糟糕的
 
-#### 识记形容词的一个方法是同时学习它们的反义词。
+##### 识记形容词的一个方法是同时学习它们的反义词。
  
 	interesting - boring 
 	relaxing - exciting 
 	loud - quiet 
 	wonderful - terrible
 
-### Why 和 because
+#### Why 和 because
  
 使用疑问词 why 询问原因，使用单词 because 说明原因。
  
@@ -190,7 +221,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	你为什么去巴黎？
 	因为它美极了！
 
-### 电影类型：
+#### 电影类型：
 
 	comedy		喜剧
 	horror		惊悚
@@ -198,7 +229,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	romance		浪漫故事
 	drama		戏剧
 
-### 建议活动
+#### 建议活动
  
 提出活动建议有几种方法。
  
@@ -214,9 +245,9 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	Why don't we + 搭配动词原形
 	Why don't we try a new restaurant?	我们为什不试试一家新餐馆呢？
 
-## Part 4：
+### Part 4：
 
-### 一般现在时表示的将来时
+#### 一般现在时表示的将来时
 
 谈论将来时，你有时可以使用一般现在时。如果谈及的演出活动隶属某计划表、时间表或演出日程，这种情况最为常见。表示演出开始或结束的动词，比如 begin 和 close，常常以一般现在时来表示将来时。
 
@@ -244,7 +275,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
  
 	The movie ends at midnight. 	电影午夜结束。
 
-### 询问有关电影的信息
+#### 询问有关电影的信息
  
 想去看电影时，你需要了解有关电影的一些基本信息。你需要知道电影开始的时间、上映地点和电影票价。同时还要了解在哪里买票。使用下列问题来获取这一信息。
  
@@ -256,7 +287,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	Are tickets still available?	还有票吗？
 	How much are tickets?	票多少钱一张？
 
-### 表达恼怒
+#### 表达恼怒
  
 表达恼怒有许多方法。主要的方法是提高说话音量。这表达出强烈的情感。
  
@@ -266,33 +297,32 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
  
 	OK, OK. I'm coming. I'm coming.	好好，我来了，我来了。                           
 
-### 表达怀疑
+#### 表达怀疑
 
 通过表示你不相信某人做了某事，也能传达你的恼怒。
  
 	I don't believe it! 	我不相信！
 	I can't believe it!	我不敢相信！
 
-### 夸张
+#### 夸张
  
 你也可以通过夸大某人犯错的频率来表达愤怒。使用 always 和 never 来表示夸大。重读这些词来强调频率。
  
 	Jake always forgets.	Jake 老是忘记。
 	Mary never helps me.	Mary 从来不帮我。
 
-### 表达强烈的恼怒
+#### 表达强烈的恼怒
  
 你可以使用 stupid 或 crazy 等形容词表达程度更强的恼怒。如果你用这些词形容一个人，表示你不是恼怒，而是生气了。谨慎使用这些词，因为它们可能伤害人的感情。
  
 	This is stupid!	这很傻。
 	Are you crazy?	你疯了吗？
 
+## Unit 2 Describing people
 
-# Unit 2 Describing people
+### Part 1
 
-## Part 1
-
-### 人的外型描述
+#### 人的外型描述
 
 在描述人的身体时，我们通常会谈到身高和体重。需要注意的是，说人 fat 或者 overweight 往往被视为不礼貌的。不过在对人进行描述时，overweight 一词不礼貌的程度稍轻。 
 
@@ -336,7 +366,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
  	 	 
 文化点：对有些人来说，年龄是一个非常敏感的话题。在熟悉他们之前，避免和他们谈论年龄。
 
-### 形容词的排序
+#### 形容词的排序
  
 当您使用一个以上的形容词进行描述时，一般的规则是把它们按大小，年龄，然后颜色的顺序排列。
  
@@ -354,7 +384,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	That tall, young, blond man drives a truck.
 	那个高个儿的，金发碧眼的年轻男子开一辆卡车。
 
-### 描述人物
+#### 描述人物
 
 	What is (person) like? 或者 What does (person) look like?是用来询问一个人的身材，形体，年龄或者整体的外貌。 使用动词 be 来描述整体的外貌。
 	 
@@ -382,9 +412,9 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 语言点 Good-looking 与 attractive 具有相同的含义。 Good-looking 与 attractive 可用于描述男性和女性。通常 Beautiful 用于描述女性，handsome 则一般用于描述男性。
 
 
-## Part 2：
+### Part 2：
 
-### 关系词汇
+#### 关系词汇
  
 您应该已经知道家庭成员的基本词汇了。这里还有一些您将需要到的：
  
@@ -413,7 +443,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	boss	上司
 	colleague	同事
 
-### 描述关系
+#### 描述关系
  
 使用类似以下的表达来描述一段关系中正在发生的事情。注意，所有表达都后接动名词 (verb + -ing)。
  
@@ -428,7 +458,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	She has trouble making money.	赚钱对她来说是件困难的事。
 	They often waste time fighting.	(他们常常浪费时间吵架。)
 
-### 谈论关系
+#### 谈论关系
  
 请使用类似以下的问题来询问别人一段关系。注意答复中表达式 +动名词的结构。
  
@@ -451,9 +481,9 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	是的，我们碰到了难题。我难以理解她的问题。
 	听到这我很难过。
 
-## Part 3：
+### Part 3：
 
-### 评价员工的词汇
+#### 评价员工的词汇
  
 使用这些形容词和短语来形容员工积极工作的品质。
  
@@ -468,7 +498,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	good in meetings	善于开会
 
 
-### 使用这些形容词和短语来描述员工消极的工作品质。
+#### 使用这些形容词和短语来描述员工消极的工作品质。
  
 	could do better 	可以做得更好
 	late 	迟到
@@ -476,12 +506,12 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	disorganized	混乱的
 	lazy	懒惰
 
-### 一种更积极的方式来应对员工的弱点即是给出建设性的批评，而不是简单地给出消极的评论。
+#### 一种更积极的方式来应对员工的弱点即是给出建设性的批评，而不是简单地给出消极的评论。
  
 	She's so disorganized. > She needs to be more organized.	她很混乱。 > 她应该要更有条理些。
 	He's too negative. > He should be more positive.	他太消极了。 > 他应该积极些。
 
-### 'Too' 和 'enough'
+#### 'Too' 和 'enough'
  
 请用 too + 形容词来描述某样东西超过必要，或超过所需时。
  
@@ -497,7 +527,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	Sally's not efficient enough. 	Sally的效率还不够高。
 	He's not creative enough to work in marketing.   	他没有足够的创造力做市场营销工作。
 
-### 发表意见的时候用 'I think that'
+#### 发表意见的时候用 'I think that'
  
 使用 I think that 来表示您在发表一个意见。 使用 so do I 来表示同意一个 I think that 和 I like 这样的短语所表达的意见.
  
@@ -545,9 +575,9 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	我也不觉得。
 
 
-## Part 4:
+### Part 4:
 
-### 在工作中所用的副词
+#### 在工作中所用的副词
  
 副词解释how, when or where。它们可以修饰一个动词，形容词或另一个副词。许多副词以-ly 结尾的是最容易识别的和形成的。但是，许多副词是不以-ly 结尾的,识别它们的最好的方式是将它们连接到它们所修饰的动词，形容词或副词。
  
@@ -590,7 +620,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	Honestly, what are we going to do?    	说实话, 我们去干嘛?
 
 
-### 'So' 和 'such'
+#### 'So' 和 'such'
 
 
 请用so + 形容词 或 so + 副词来强调个人品质。
@@ -604,11 +634,11 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	She shows such creativity.			她表现出极大的创造力。
 	Oscar is such a hard worker.		Oscar 是工作非常努力的人。
 
-### 写一封介绍信
+#### 写一封介绍信
 
 以下是一些在介绍信不同部分所使用到的表达式。
 
-#### 1. 日期及称呼
+##### 1. 日期及称呼
 
 	写信前先写日期
 
@@ -623,20 +653,20 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	To whom it may concern:   
 	(它可能会涉及到的人:)
 
-#### 2. 您为什么写
+##### 2. 您为什么写
 
 	请使用这个段落格式来解释您为什么写：
 	 
 	I am writing to highly recommend Jacqueline Johnson. I worked with her for two years.	 	我正在写信，大力推荐 Jacqueline Johnson。我和她共事两年。
 
-#### 3.员工的品质及成就
+##### 3.员工的品质及成就
 
 	在本段中，请写几个描述员工的品质和所取得的成就的句子。
 	 
 	Ms. Johnson was our chief designer. She was very creative. She also worked really quickly. Her last project only took her three days. It usually takes one week. Honestly, Ms. Johnson was the perfect employee.	 
 	Johnson 小姐是我们的首席设计师。她有很强的创造力，而且做事极快。她的上个项目只用三天就完成了。这通常需要一周时间。实话实说，Johnson 是员工的模范。
 
-#### 4. 结尾 – 联系信息及签名行
+##### 4. 结尾 – 联系信息及签名行
 
 	您可以用这句话来告诉他人您愿意进一步谈论某个员工：
 	 
@@ -653,9 +683,9 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	Vice President, Design
 	Imagicot
 
-## Uint 3 The past
+### Uint 3 The past
 
-### Part 1：
+#### Part 1：
 
 	I called my friend.
 	I ate breakfast.
@@ -669,7 +699,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	I watched TV.
 
 
-###　动词过去时
+####　动词过去时
  
 许多动词过去时只用在动词词尾添加 -ed 即可。 
 
@@ -686,7 +716,7 @@ Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的�
 	drink - drank
 	let - let
 
-### be 动词 
+#### be 动词 
  
 be 动词有两种过去时形式：was 和 were。代词 he、she、it 和 I 使用 was，you、we 和 they 使用 were。 
 
@@ -710,7 +740,7 @@ be 动词的过去时否定式为 was not 和 were not，对应的缩写形式�
 	Frank was not happy in Los Angeles. > Frank wasn't happy in Los Angeles.	 	Frank 以前在洛杉矶过得不开心。
 	Oscar and Pam were not at home yesterday. > Oscar and Pam weren't at home yesterday.	 	Oscar 和 Pam 昨天不在家。
  	 	 	 
-### 过去时疑问句
+#### 过去时疑问句
  	 	 	 
 在句首使用单词 did 来形成过去时疑问句。did 后使用主要动词的原形。不得在动词词尾后加 s。
 
@@ -722,7 +752,7 @@ be 动词的过去时否定式为 was not 和 were not，对应的缩写形式�
 	陈述句：  He was happy.	 	他以前很开心。
 	疑问句：  Was he happy?             	 	他以前很开心吗？
 
-### 过去时间的表达
+#### 过去时间的表达
  
 使用下列表达来谈论过去的事情。 
 
@@ -741,7 +771,7 @@ last + 时间单词
 	I worked at a supermarket last year.	我去年在一家超市上班。
 
 
-### 开放式问题和封闭式问题
+#### 开放式问题和封闭式问题
  
 开放式问题是指答案不止一个的问题。比如，How was Paris? 有多种可能的回答。
  
@@ -759,7 +789,7 @@ last + 时间单词
 
 开放式问题一般更利于推动对话。它们让和你对话的人可以自由回答，回答方法也有多种。开放式问题主要分为两种：描述性问题和意见性问题。
  
-### 描述性问题
+#### 描述性问题
  
 	What was it like?	（它什么样子？）
 	What was the wedding like?	婚礼是什么样子？
@@ -777,9 +807,9 @@ last + 时间单词
 	观点： How did you like it?	（你有多喜欢它？）
 
 
-## Part 2：
+### Part 2：
 
-### 不规则动词过去时态
+#### 不规则动词过去时态
  
 许多动词的过去时形式都是不规则的，也就是说它们的过去时形式不能通过简单在词尾添加 -ed 形成。
  
@@ -808,7 +838,7 @@ last + 时间单词
 	I often read novels.  	我经常看小说。
 	I read a good novel last week.	上周我看一本精彩的小说。
 
-### 过去的活动
+#### 过去的活动
 
 	He cooked dinner.
 	They watched TV.
@@ -822,11 +852,11 @@ last + 时间单词
 	They did yoga.
 
 
-### 开启对话
+#### 开启对话
  
 开启对话有多种方法。
  
-#### 一般性问题
+##### 一般性问题
  
 如果没有想要谈论的话题，问候完后你可以使用一个常见的一般性问题。
  	 	 
@@ -837,14 +867,14 @@ last + 时间单词
 	What's going on? 	发生什么事了？
 	How was your weekend?	你周末过得怎么样？
 
-#### 特定问题
+##### 特定问题
  
 你可以向你认识的人询问他们的生活。
  	 	 
 	How was Peru? 	秘鲁怎么样？
 	How is your mom feeling?     	你妈妈感觉怎么样？
  
-#### 陈述句 
+##### 陈述句 
  
 在有些场合，你会有一个你想讨论的话题。你可以提出陈述，然后听众会对你的陈述发表意见。 
  	 	 
@@ -858,11 +888,11 @@ last + 时间单词
 	昨天晚上的比赛非常精彩！
 	是啊，真的令人兴奋！
 
-### 改变话题
+#### 改变话题
  
 对话从一个话题转到另一个话题，有一些表达可以帮助人们暗示他们要改变话题。
  
-#### 'By the way'
+##### 'By the way'
  
 使用表达 by the way 来引入新话题，它也表示你刚想起了某事。 
  
@@ -871,7 +901,7 @@ last + 时间单词
 	对了，我昨天晚上见到 Joe 了。他气色看起来不错。
 	真的吗？我非常高兴！
  
-#### 'That reminds me'
+##### 'That reminds me'
  
 当你想起了想说的其他事情，使用 that reminds me 来转变话题。 
  
@@ -883,7 +913,7 @@ last + 时间单词
 	是啊！
 
 
-#### 'Anyway'
+##### 'Anyway'
  
 使用单词 anyway 来结束或总结话题，这样一来你可以开始一个新话题。当你听厌了某人谈论某事，非常想改变话题时，就可以使用这个词。
  
@@ -895,9 +925,9 @@ last + 时间单词
 	总之，我们不打算再去了。对了，Jane 还好吧？
 
 
-## Part 3：
+### Part 3：
 
-### 新闻词汇
+#### 新闻词汇
  
 新闻消息涵盖罪行、政治和商业等各种各样的话题。我们再次只关注 crime。以下是一些和 crime相关的有用名词。
  
@@ -922,7 +952,7 @@ thief 是指犯偷窃罪的人，theft 则是偷窃这一事件。thief 一词�
  
 steal 是不规则动词，过去式形式是 stole。
 
-### 不定代词
+#### 不定代词
  
 有些代词并不指代某个已知的名词，它们就是不定代词，包括以下三个单词。
  
@@ -945,7 +975,7 @@ steal 是不规则动词，过去式形式是 stole。
 语言点：单词 somebody 与 someone 意义相同。
 
 
-### 故事排序
+#### 故事排序
  
 	在讲故事或写故事时，将事情发生的顺序理清很重要。理清顺序有几种方法。
 	 
@@ -966,7 +996,7 @@ steal 是不规则动词，过去式形式是 stole。
 	They stole money the day before yesterday.	他们前天偷了钱。
 
 
-### 预览新闻文章
+#### 预览新闻文章
 
 	随着你的英语更加熟练，你将开始阅读难度更大的文字，比如新闻和杂志文章。这时培养理解这些文字的策略很重要。一种有用的策略是在开始阅读故事前先预览或通看整篇文章。以下是一些具体步骤，将让你的阅读更加具有效率。
 
@@ -989,7 +1019,7 @@ steal 是不规则动词，过去式形式是 stole。
 
 	在文章上方，你可能看到至少下列一项：署名行（记者姓名）、日期栏（记者发稿的城市）和通讯社的名称。有时通讯社的名称见于括号中 (Global News)，有时缩写为 (GN)。
 
-## Part 4:
+### Part 4:
 
 远足动词：
 
@@ -1054,7 +1084,7 @@ be 动词疑问句不需要辅助动词 did。
 	这次旅行你们去了多久？
 	我们徒步旅行了两周。
 
-### 积极聆听
+#### 积极聆听
  
 听故事不应该完全被动接受。与通常的对话相同，你应避免沉默，激发讲故事的人，不懂得时候要提问。做一个积极的聆听者。
  
@@ -1073,11 +1103,11 @@ be 动词疑问句不需要辅助动词 did。
 
 最好的故事会故事讲述人和听故事的人应该互动，从而营造一场难忘的活动。
 
-# Uint 4 - Milestones
+## Uint 4 - Milestones
 
-## Part 1：
+### Part 1：
 
-### 一生中的大事
+#### 一生中的大事
  
 请用这些词来谈谈一生中的大事
  	 
@@ -1139,7 +1169,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	您在哪儿长大?
 	我在比利时长大。
 
-### 聆听细节
+#### 聆听细节
  
 在听人谈论其生活时，把注意力集中在日期和地点等细节上。通过聆听这些关键细节，即便你没有听清每一个词，也能理解说话人所说的内容。
  
@@ -1153,9 +1183,9 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
  	 	 
 训练自己听取关键的细节。即便你不明白每个词，也能让你跟上读书基本的对话。
 
-## Part 2
+### Part 2
 
-### 一生的大事中所用到的'Get'
+#### 一生的大事中所用到的'Get'
  
 请用get 与这些词语谈谈关系的里程碑。
  
@@ -1173,7 +1203,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	get a driver's license	考取驾照
 	get old	变老
 
-### when' 引导的从句
+#### when' 引导的从句
  
 由 'when' 引导的从句为句子补充有关时间的信息。
  
@@ -1183,9 +1213,9 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
  	 
 如果由 'when' 引导的从句起句，则用逗号 (,) 与句子其余部分分隔。如 'when' 引导的从句位于结尾，则无需使用逗号。
 
-## Part 3
+### Part 3
 
-### 更多人生事件
+#### 更多人生事件
  
 人一生中总会发生各种大事。想想自己人生中发生的大事。这些事情发生了吗？什么时间发生的？如果没有，你认为什么时候会发生？
  
@@ -1199,7 +1229,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	We had our first child when I was 25.	（在我 25 岁时，我们有了第一个孩子。）	 	 	 
 	We had our first grandchild when I was 46.	（在我 46 岁时，我们有了第一个孙儿。）
 
-### after' 引导的从句
+#### after' 引导的从句
  
 与 'when' 引导的从句一样，由 'after' 引导的从句也为句子补充有关时间的信息。
  
@@ -1208,9 +1238,9 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
  	 	 
 与 'when' 引导的从句一样，如果句子以 'after' 引导的从句起句，则用逗号 (,) 与句子其余部分分隔。如 'after' 引导的从句位于结尾，则无需使用逗号。
 
-## Part 4
+### Part 4
 
-### 与采访相关的词汇
+#### 与采访相关的词汇
  
 以下是一些谈论工作面试的有用单词。
  
@@ -1235,7 +1265,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	I'd like to introduce you to the other people on the team.	我要把你介绍给团队中的其他人认识。
 	How is February 1st as a start date?	从二月一日开始怎么样？
 
-### 面试相关的表达
+#### 面试相关的表达
  
 当你到达面试地点时，先表明你来的原因。然后，感谢面试人的接见。
  
@@ -1267,7 +1297,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	Candidate: That sounds great and, yes, the start date works for me. Thank you again for meeting with me.
 	（听起来不错，可以，入职时间我觉得没问题。再次感谢您与我见面。）
 
-### 省略形式
+#### 省略形式
  
 英语为母语的讲话人与人交谈时，并不总是把每个词的每个音都发出来。尤其元音常常会缩短或省略。这些省略形式在标准英语中并不会出现。但是，当你听到它们时，重要的是能够进行辨认。
  	 
@@ -1279,19 +1309,18 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	Why did you leave?
 	How do you like it?
 
+## Uint 5 - Welcome
 
-# Uint 5 - Welcome
+### Part 1
 
-## Part 1
-
-### 使用 just 表示最近的过去
+#### 使用 just 表示最近的过去
 
 使用 just + 动词谈论刚刚或最近完成的行动。
  
 	Zach and I just bought a house. 	（我和 Zach 刚买了房子。）                           
 	Carla just got promoted.	（Carla 刚刚升职。）
 
-### 开启和改变对话话题
+#### 开启和改变对话话题
 
 你可以使用 Guess what? 来引出或改变话题。
  	 
@@ -1316,7 +1345,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	哇！这个披萨味道真好。
 	的确不错。对了，星期六我打算在家吃披萨看电影。
 
-### 使用 anyway 把跑偏的对话拉回原来的话题。
+#### 使用 anyway 把跑偏的对话拉回原来的话题。
  	 
 	A: We just got a new swimming pool.
 	B: Really? Man, how did you pay for that?
@@ -1327,7 +1356,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
  	 	 
 谨慎使用这些表达：如果唐突改变话题，可能会让人感到冒犯。
 
-### 可能性副词
+#### 可能性副词
 
 可能性副词表示某事发生的相对可能性。
  
@@ -1370,7 +1399,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	我今晚能见你吗？
 	（可能吧。）
 
-### 提出及回应邀请	 
+#### 提出及回应邀请	 
  	 
 使用类似这些表达提出邀请。提出邀请前，先具体说明邀请的场合是有好处的。	 
  	 
@@ -1393,9 +1422,9 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	Sorry – Chelsea probably can't come. She has a cold.	 	抱歉 - Chelsa 很可能来不了。她感冒了。	 
 	Oh, that weekend's no good. Sorry!	 	哦，这个周末不行。对不起！
 
-## Part 2
+### Part 2
 
-### 欢迎客人
+#### 欢迎客人
  
 使用类似这样的表达欢迎客人：
  
@@ -1420,7 +1449,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	How was your trip? 	旅途怎么样？
 	How was traffic?	交通状况如何？
 
-### 形容词搭配不定式
+#### 形容词搭配不定式
 
 你可以使用形容词 + to + 动词解释情感和状态。
  
@@ -1429,7 +1458,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	So good to see you!	（很高兴见到你！）
 	Amy's ready to eat dinner.	（Amy 准备好吃饭了。）
 
-### 提供东西和提出礼貌的请求
+#### 提供东西和提出礼貌的请求
 
 使用 would you like 礼貌向客人提供某物。
  
@@ -1443,7 +1472,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
  
 语言点：在美式英语中，restroom 是家中厕所非常礼貌的称法，Bathroom 相对礼貌，toilet 不礼貌。在英式英语中，toilet 是家中厕所非常礼貌的称法， Loo 是可以接受的用法，但只限于非正式场合和熟悉的人。
 
-### 听到好消息和坏消息的反应
+#### 听到好消息和坏消息的反应
 
 听到好消息时，使用类似这样的表达作出反应。
  
@@ -1474,9 +1503,9 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	It felt terrible to get fired. It's totally crazy.	（遭到解雇感觉糟透了。这简直不可思议。）
 
 
-## Part 3
+### Part 3
 
-### 形容词同义词
+#### 形容词同义词
 
 使用同义词或具有相同意义的单词，可以让你的英文更富于乐趣和变化。学习同义词也是识记新词的一种好办法。
  
@@ -1488,7 +1517,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	beautiful - lovely - gorgeous 	美丽的 / 可爱的 / 迷人的
 	delicious - tasty - yummy  	美味的 / 可口的 /好吃的
 
-### 离开某人的家
+#### 离开某人的家
  
 当你离开某人家时，使用类似这样的表达：
  
@@ -1515,9 +1544,9 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
  
 人们在听到这些句子后通常会表示感谢。
 
-## Part 4
+### Part 4
 
-### 'Hope to' 和 'hope that'
+#### 'Hope to' 和 'hope that'
 
 使用Hope to 和 hope that 谈论你希望发生的事情。注意，Hope to 后接动词原形， hope that 后接从句。
  
@@ -1536,7 +1565,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	我希望不久后能再见到你。
 	我也这样希望。
 
-### 谈论有趣的活动
+#### 谈论有趣的活动
  
 使用下列表达谈论有趣的活动：
  
@@ -1547,7 +1576,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
  
 如果你表达了这样的感觉，你的主人一般会向你表示感谢。
 
-### 撰写感谢信
+#### 撰写感谢信
  
 下为撰写感谢信的一些步骤。
  
@@ -1585,11 +1614,11 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	Jane
 
 
-# Uint 6 - Vacations
+## Uint 6 - Vacations
 
-## Part 1
+### Part 1
 
-### 地理位置
+#### 地理位置
 
 	coast
 	ocean
@@ -1602,7 +1631,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	lake
 	desert
 
-### 谈论天气、季节和温度
+#### 谈论天气、季节和温度
  
 描述一个地方的天气和气候有多种方法。
 
@@ -1625,7 +1654,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	It's nicer here than in the desert.	这里比沙漠更好。
 	It's hot in summer and cold in winter.	冬冷夏热。
 
-### 旅游手册阅读策略
+#### 旅游手册阅读策略
  
 在阅读第二语言时，你可能会碰到不熟悉的单词和表达。要解决这一问题，一种策略是通过阅读前后的单词和句子得出生词的意思。你常常会在生词附近的上下文中找到它的同义词和反义词、定义和解释。
 
@@ -1634,7 +1663,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	Take a hike to Salto Grande waterfall. There, water from the Paine River falls beautifully into Pehoe Lake.
 
 
-### 询问和介绍地点的信息
+#### 询问和介绍地点的信息
  
 询问他们是否喜欢自己的家乡，是鼓励他人谈论其家乡的一种方法。
  
@@ -1654,9 +1683,9 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	A: What are the people like?	人都怎么样？
 	B: Many people are university graduates and can speak English and French.	许多人读过大学，会讲英语和法语。
 
-## Part 2
+### Part 2
 
-### 度假活动
+#### 度假活动
 
 	going to the beach
 	horseback riding
@@ -1669,7 +1698,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	shopping
 	diving
 
-### 'Be' + 'going to' 表示计划, 'will' 表示预测
+#### 'Be' + 'going to' 表示计划, 'will' 表示预测
  
 使用 be + going to + 动词谈论未来确认的计划或打算。
  
@@ -1700,7 +1729,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	The next two days will be an adventure. 	（接下来两天将是一场冒险。）
 
 
-### 表达疑虑
+#### 表达疑虑
  
 使用类似下面的表达表示疑虑。注意语调的变化如何加深说话人的疑虑程度。  
  
@@ -1720,9 +1749,9 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 
 语言点：注意这些表示疑虑的表达的使用方式和对象。比如，跟老板说 If you say so 可能不大好！
 
-## Part 3
+### Part 3
 
-### 用 'Will' 表达提议或主动做某事
+#### 用 'Will' 表达提议或主动做某事
  
 使用 will + 动词提议或自愿在不久或更远的将来做某事。 
   
@@ -1743,7 +1772,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	（你帮我拿行李，好吗？）
 	（不，我不行。）
 
-### 告别语
+#### 告别语
  
 当某人出发旅行时，使用类似这样的表达送别：
  
@@ -1758,11 +1787,11 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	A: OK, then. I'm going.	好吧。那我走了。
 	B: Bon voyage! 	一路平安！
 
-### 动词 'try'、'remember' 和 'stop'
+#### 动词 'try'、'remember' 和 'stop'
  
 动词 'try'、'remember' 和 'stop' 的意义会根据后接动词的形式而改变。
  
-#### 'Try'
+##### 'Try'
  
 当动词 try 后接不定式 （to + 动词） 时，例如 to buy，表示试图做某事。
 
@@ -1772,7 +1801,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 
 	I don't like biking. Maybe I'll try swimming on my vacation.	（我不喜欢骑自行车。也许假期我会试着游游泳。）
 
-#### 'Remember'
+##### 'Remember'
  
 当动词 remember 后接不定式时，例如 to call，表示记得去履行一项职责或任务。
 
@@ -1782,7 +1811,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 
 	I remember calling the neighbors.	（我记得给邻居打电话了。）
  	 	 
-#### 'Stop'
+##### 'Stop'
  
 当动词 stop 后接不定式时，如 to eat，表示停止一个动作，开始另一个动作。在本例中，这个人在工作，但停下工作吃东西。
 
@@ -1793,13 +1822,13 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	I stopped eating when I felt sick.	（我感觉恶心，停止了吃东西。）
 
 
-### 省略形式
+#### 省略形式
 
 记住，在英语口语中，每个词的每个音并不是总要发出来。尤其是元音常常缩短或是省略。这些形式很少在书面英语中使用，但听到时能够辨识很重要。
 
 请听 going to、have to 和 want to 的省略形式。注意它们书写和发音的不同之处。
  
-#### 'Going to'
+##### 'Going to'
 
 	We're going to fly to Hawaii.	我们打算坐飞机去夏威夷。
 	I'm going to call my mom. 	我打算打电话给我妈妈。
@@ -1807,13 +1836,13 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	She's going to play computer games.
 	她打算玩电脑游戏。
  
-#### 'Have to'
+##### 'Have to'
 	I have to go.	我得走了。
 	We have to be quick.	我们不得不快点。
 	She has to leave.	她不得不离开。
 	He has to get up early. 他不得不早起。
 
-#### 'Want to'
+##### 'Want to'
 
 	I want to go to bed.	我想上床睡觉。
 	Do you want to go to the movies?	你想去看电影吗?
@@ -1822,9 +1851,9 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 
 注意，如果主格代词是 he、she 或 it，have to 和 want to 的口语省略形式会改变，但 going to 的省略形式保持不变。
 
-## Part 4
+### Part 4
 
-### 与度假相关的动词
+#### 与度假相关的动词
 
 	I'll probably relax with my girlfriend.
 	We want to stay in Budapest.
@@ -1834,7 +1863,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	Lauren lost her wallet.
 
 
-### 用 So 来描述结果
+#### 用 So 来描述结果
  
 你可以使用 So 来描述某一行动或时间的结果。注意，原因(he lost his passport)位于结果之前(he went to the embassy)。
  
@@ -1845,7 +1874,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
 	Emily recommended Corcovado, so we went there. 	（Emily 推荐基督山，所以我们去了那里。）
 	We went to Corcovado because Emily recommended it.	（我们去基督山，因为 Emily 推荐了那里。）
 
-### 表达目的
+#### 表达目的
  
 使用 in order to + 基本动词表达目的。如果 in order to + 从句位于句子主句之前，使用逗号；如果位于主句之后，则不必使用逗号。
  
@@ -1865,7 +1894,7 @@ Graduate 也可用作名词，意思是刚刚大学毕业的毕业生。
  	 	 
 	I saved my money so I could visit Terry.	（我省钱，以便能够去看 Terry。）
 
-### 使用恰当的语体
+#### 使用恰当的语体
  
 写信时使用正确的语体很重要。以下开头和结尾的一些正式和非正式表达。
 
