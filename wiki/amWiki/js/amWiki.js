@@ -172,7 +172,7 @@ $(function () {
             } else {
                 $mainSibling.find('a').eq(num)
                     .removeAttr('href')
-                    .text('No More.');
+                    .text('NULL');
             }
         };
         setSiblingNav(0, getDocLink('prev', $item));
