@@ -1,8 +1,12 @@
 
 #### [HomePage](?file=HomePage "Return HomePage")
 
+##### U-boot
+- [Porting_for_Svr2730](?file=200-U-boot/500-Porting_for_Svr2730 "Porting_for_Svr2730")
+
 ##### Linux_kernel
 - [Support_mtd](?file=250-Linux_kernel/001-Support_mtd "Support_mtd")
+- [Support_pcie](?file=250-Linux_kernel/500-Support_pcie "Support_pcie")
 
 ##### English_Study
 - [Index](?file=500-English_Study/00-Index "Index")
@@ -17,6 +21,11 @@
 - **Elementary-3**
     - [Unit-1](?file=500-English_Study/03-Elementary-3/01-Unit-1 "Unit-1")
     - [Unit-2](?file=500-English_Study/03-Elementary-3/02-Unit-2 "Unit-2")
+
+##### Translation
+- **Linux_Kernel_Doc**
+    - [driver-model_overview](?file=750-Translation/500-Linux_Kernel_Doc/500-driver-model_overview "driver-model_overview")
+    - [driver-model_bus](?file=750-Translation/500-Linux_Kernel_Doc/501_driver-model_bus "driver-model_bus")
 
 ##### 学习amWiki
 - [amWiki轻文库简介](?file=998-学习amWiki/01-amWiki轻文库简介 "amWiki轻文库简介")
