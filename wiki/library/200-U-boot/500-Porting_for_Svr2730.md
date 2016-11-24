@@ -1,3 +1,4 @@
+<!-- TOC depthFrom:0 depthTo:4 withLinks:1 updateOnSave:1 orderedList:1 -->
 >1. [0 前提](#0 前提 "0 前提")
 1. [1 设置环境参数](#1 设置环境参数 "1 设置环境参数")
 1. [2 修改Makefile文件](#2 修改Makefile文件 "2 修改Makefile文件")
@@ -10,6 +11,7 @@
 	1. [5.4 I2C驱动移植](#5.4 I2C驱动移植 "5.4 I2C驱动移植")
 	1. [5.5 ZL32067 时钟芯片驱动开发](#5.5 ZL32067 时钟芯片驱动开发 "5.5 ZL32067 时钟芯片驱动开发")
 	1. [5.6 FPGA加载](#5.6 FPGA加载 "5.6 FPGA加载")
+<!-- /TOC -->
 
 # Porting U-boot-2010-06 for svr2730(his3536)
 

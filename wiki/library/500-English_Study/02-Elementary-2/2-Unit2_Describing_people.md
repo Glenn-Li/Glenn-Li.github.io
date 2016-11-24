@@ -1,3 +1,4 @@
+<!-- TOC depthFrom:0 depthTo:4 withLinks:1 updateOnSave:1 orderedList:1 -->
 >1. [Unit 2 Describing people](#Unit 2 Describing people "Unit 2 Describing people")
 	1. [Part 1](#Part 1 "Part 1")
 		1. [人的外型描述](#人的外型描述 "人的外型描述")
@@ -17,6 +18,7 @@
 		1. [在工作中所用的副词](#在工作中所用的副词 "在工作中所用的副词")
 		1. ['So' 和 'such'](#'So' 和 'such' "'So' 和 'such'")
 		1. [写一封介绍信](#写一封介绍信 "写一封介绍信")
+<!-- /TOC -->
 
 ## Unit 2 Describing people
 

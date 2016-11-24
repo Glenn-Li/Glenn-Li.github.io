@@ -1,3 +1,4 @@
+<!-- TOC depthFrom:0 depthTo:4 withLinks:1 updateOnSave:1 orderedList:1 -->
 >1. [1 前提](#1 前提 "1 前提")
 1. [2 设置环境变量](#2 设置环境变量 "2 设置环境变量")
 1. [3 内核配置](#3 内核配置 "3 内核配置")
@@ -11,7 +12,7 @@
 1. [9 设备上默认有的flash操纵相关命令工具](#9 设备上默认有的flash操纵相关命令工具 "9 设备上默认有的flash操纵相关命令工具")
 1. [10 常见问题](#10 常见问题 "10 常见问题")
 	1. [jffs2文件系统挂载异常报错](#jffs2文件系统挂载异常报错 "jffs2文件系统挂载异常报错")
-
+<!-- /TOC -->
 
 # Linux Kernel Support Mtd and Support Spi Nor Flash for His3536(sfc350)
 

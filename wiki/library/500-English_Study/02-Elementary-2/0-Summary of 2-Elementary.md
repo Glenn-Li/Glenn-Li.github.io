@@ -1,3 +1,4 @@
+<!-- TOC depthFrom:0 depthTo:4 withLinks:1 updateOnSave:1 orderedList:1 -->
 >1. [Unit 1	Entertainment	 娱乐](#Unit 1	Entertainment	 娱乐 "Unit 1	Entertainment	 娱乐")
 	1. [Part 1：不定式和动名词](#Part 1：不定式和动名词 "Part 1：不定式和动名词")
 		1. [1、不定式和动名词](#1、不定式和动名词 "1、不定式和动名词")
@@ -110,6 +111,7 @@
 		1. [用 So 来描述结果](#用 So 来描述结果 "用 So 来描述结果")
 		1. [表达目的](#表达目的 "表达目的")
 		1. [使用恰当的语体](#使用恰当的语体 "使用恰当的语体")
+<!-- /TOC -->
 
 # Summary of 2-Elementary
 

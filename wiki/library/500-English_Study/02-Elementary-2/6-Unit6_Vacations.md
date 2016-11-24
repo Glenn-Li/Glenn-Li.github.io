@@ -1,3 +1,4 @@
+<!-- TOC depthFrom:0 depthTo:4 withLinks:1 updateOnSave:1 orderedList:1 -->
 >1. [Uint 6 - Vacations](#Uint 6 - Vacations "Uint 6 - Vacations")
 	1. [Part 1](#Part 1 "Part 1")
 		1. [地理位置](#地理位置 "地理位置")
@@ -18,6 +19,7 @@
 		1. [用 So 来描述结果](#用 So 来描述结果 "用 So 来描述结果")
 		1. [表达目的](#表达目的 "表达目的")
 		1. [使用恰当的语体](#使用恰当的语体 "使用恰当的语体")
+<!-- /TOC -->
 
 ## Uint 6 - Vacations
 

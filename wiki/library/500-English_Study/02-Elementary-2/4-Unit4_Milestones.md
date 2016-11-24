@@ -1,3 +1,4 @@
+<!-- TOC depthFrom:0 depthTo:4 withLinks:1 updateOnSave:1 orderedList:1 -->
 >1. [Uint 4 - Milestones](#Uint 4 - Milestones "Uint 4 - Milestones")
 	1. [Part 1：](#Part 1： "Part 1：")
 		1. [一生中的大事](#一生中的大事 "一生中的大事")
@@ -12,6 +13,7 @@
 		1. [与采访相关的词汇](#与采访相关的词汇 "与采访相关的词汇")
 		1. [面试相关的表达](#面试相关的表达 "面试相关的表达")
 		1. [省略形式](#省略形式 "省略形式")
+<!-- /TOC -->
 
 ## Uint 4 - Milestones
 
