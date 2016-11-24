@@ -33,7 +33,7 @@
 
 ## Whom
 
-    Whom do you like beat?
+    Whom do you like best?
     Whom(Who) are you looking for?
     Whom do you want to go to see a film?
     Whom do you want to the present to?
