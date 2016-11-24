@@ -1,8 +1,22 @@
+>1. [Part 1](#Part 1 "Part 1")
+	1. [现在完成时](#现在完成时 "现在完成时")
+	1. [询问和提供航班信息](#询问和提供航班信息 "询问和提供航班信息")
+1. [Part 2](#Part 2 "Part 2")
+1. [Part 3](#Part 3 "Part 3")
+	1. [机场交通](#机场交通 "机场交通")
+	1. ['Have to' 表示必需或者义务](#'Have to' 表示必需或者义务 "'Have to' 表示必需或者义务")
+1. [Part 4](#Part 4 "Part 4")
+	1. [过去分词表](#过去分词表 "过去分词表")
+	1. [现在完成时态中的副词](#现在完成时态中的副词 "现在完成时态中的副词")
+		1. ['Yet'](#'Yet' "'Yet'")
+		1. ['Already'](#'Already' "'Already'")
+		1. ['Never' 和'ever'](#'Never' 和'ever' "'Never' 和'ever'")
+
 # Unit 1 Travel 旅行
 
-## Part 1  
+## Part 1
 
-### 现在完成时  
+### 现在完成时
 用现在完成时表达在过去的一个时间（未具体说明）完成的事对现在有影响。用have + 过去分词构成现在完成时。
  
     I have printed my boarding pass.	我打印了我的登机证。
@@ -16,7 +30,7 @@
 |print|printed|printed|
 |travel|traveled|traveled|
 
-一些不规则动词的过去分词也与过去时相同，比如以下动词。   
+一些不规则动词的过去分词也与过去时相同，比如以下动词。
 
 |现在时形式|过去时形式|过去分词形式|
 |:------:|:------:|:------:|
@@ -38,18 +52,18 @@
     <th>过去分词</th>
   </tr>
   <tr>
-    <th>I have  
+    <th>I have
     You have</th>
     <th>worked.</th>
-    <th>I've  
+    <th>I've
     You've</th>
     <th>worked.</th>
   </tr>
   <tr>
-    <th>He has  
+    <th>He has
     She has</th>
     <th>worked.</th>
-    <th>He's  
+    <th>He's
     She's</th>
     <th>worked.</th>
   </tr>
@@ -60,12 +74,12 @@
     <th>rained.</th>
   </tr>
   <tr>
-    <th>We have  
-    You have  
+    <th>We have
+    You have
     They have</th>
     <th>worked.</th>
-    <th>We've  
-    You've  
+    <th>We've
+    You've
     They've</th>
     <th>worked.</th>
   </tr>
@@ -159,7 +173,7 @@
 
 你可以使用have to +动词表达你需要做的事情。
  
-    Danielle's flight leaves in an hour. She'll have to catch the express train.	 
+    Danielle's flight leaves in an hour. She'll have to catch the express train.
     Danielle 的航班一小时后起飞。她必须赶乘特快列车。     	 
      	 
     The company gave me a limousine, so I didn't have to take the shuttle.
@@ -192,7 +206,7 @@
 |------|------|------|
 |have + 过去分词 	|haven't + 过去分词	|Have + 主语 + 过去分词 + ?|
  
-    A: Have you been to Bolivia?    你去过玻利维亚吗？  
+    A: Have you been to Bolivia?    你去过玻利维亚吗？
     B: No, I haven't been there before.	    没，我从没去过。
 
 语言提示：在美国英语，I've got表示持有，就像I've got my ticket. 。说I've gotten a ticket. 意味着你已经得到或买到一张票。在英国英语，got 都可以用于两种情况。
@@ -205,8 +219,8 @@
  
 用副词yet 表示某事尚未发生，或询问某事是否已经发生。该副词常放在句尾。   
 
-    I haven't printed my boarding pass yet.	我还没有打印登机牌。  
-    They haven't packed their bags yet.	他们还没有收拾行李。  
+    I haven't printed my boarding pass yet.	我还没有打印登机牌。
+    They haven't packed their bags yet.	他们还没有收拾行李。
     Has she left for the airport yet?	她已经出发去机场了吗？
 #### 'Already'
  
@@ -214,7 +228,7 @@
  
     You can't come? But I've already booked the tickets!
     你来不了吗？可我机票都定好了！
-    Carly has already been to Paris, but I haven't.	 
+    Carly has already been to Paris, but I haven't.
     Carly 已经去过巴黎，我还没去过。
     Has John already been to the Louvre?
     John 已经去过卢浮宫了吗？

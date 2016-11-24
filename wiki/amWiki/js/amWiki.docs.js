@@ -53,7 +53,7 @@
         this.$e.win.on('hashchange', function (e) {
             var hash = location.hash.split('#')[1];
             if (that.data.pageWidth <= 720) {
-                that.$e.view.find('h1,h2,h3').each(function (index, element) {
+                that.$e.view.find('h1,h2,h3,h4,h5,h6').each(function (index, element) {
                     var $title = $(element);
                     var text = $title.text().replace(/\s+/g, '');
                     if (hash == text) {
@@ -64,7 +64,7 @@
         });
     };
 
-    //设置文档h1、h2、h3描记
+    //设置文档h1、h2、h3、h4、h5、h6描记
     Docs.prototype.setTitlesAnchor = function () {
         var that = this;
         var $titles = null;
@@ -74,7 +74,7 @@
         }
         var anchorHtml = '<a class="anchor" href="#{title}" name="{title}">' +
             '<svg><use xlink:href="#icon:linkAnchor"></use></svg></a>';
-        $titles = that.$e.view.find('h1,h2,h3');
+        $titles = that.$e.view.find('h1,h2,h3,h4,h5,h6');
         $titles.each(function (index, element) {
             var $this = $(element);
             var text = $.trim($this.text());
