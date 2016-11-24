@@ -1,4 +1,5 @@
 <!-- TOC depthFrom:0 depthTo:4 withLinks:1 updateOnSave:1 orderedList:1 -->
+# Linux Kernel Support Mtd and Support Spi Nor Flash for His3536(sfc350)
 >1. [1 前提](#1 前提 "1 前提")
 1. [2 设置环境变量](#2 设置环境变量 "2 设置环境变量")
 1. [3 内核配置](#3 内核配置 "3 内核配置")
