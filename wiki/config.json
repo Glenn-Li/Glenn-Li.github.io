@@ -1,5 +1,6 @@
 {
 	"name": "Glenn's Personal Wiki",
 	"ver": "v0.1 By Glenn",
-	"logo": "assets/logo.png"
+	"logo": "assets/logo.png",
+	"testing": true
 }

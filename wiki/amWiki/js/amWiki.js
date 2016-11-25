@@ -62,14 +62,13 @@ $(function () {
         /*$('.menu-fold').on('click', function () {
          var $this = $(this);
          if ($this.hasClass('on')) {
-	         $this.removeClass('on').find('use').attr('xlink:href', '#navFolder1');
-	         $menuBar.find('h5').removeClass('on').next('ul').hide();
+         $this.removeClass('on').find('use').attr('xlink:href', '#navFolder1');
+         $menuBar.find('h5').removeClass('on').next('ul').hide();
          } else {
-	         $this.addClass('on').find('use').attr('xlink:href', '#navFolder2');
-	         $menuBar.find('h5').addClass('on').next('ul').show();
+         $this.addClass('on').find('use').attr('xlink:href', '#navFolder2');
+         $menuBar.find('h5').addClass('on').next('ul').show();
          }
-	 	});*/
-
+         });*/
         //响应式菜单
         var $nav = $('.nav'),
             $menuIcon = $('.menu_icon');
@@ -355,3 +354,5 @@ $(function () {
     }
 
 });
+
+
