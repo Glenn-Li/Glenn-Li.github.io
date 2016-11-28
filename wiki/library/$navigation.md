@@ -8,6 +8,12 @@
 - [Support_mtd](?file=250-Linux_kernel/001-Support_mtd "Support_mtd")
 - [Support_pcie](?file=250-Linux_kernel/500-Support_pcie "Support_pcie")
 
+##### Linux_Applications
+- [如何区分Ext2_3_4文件系统](?file=300-Linux_Applications/500-如何区分Ext2_3_4文件系统 "如何区分Ext2_3_4文件系统")
+
+##### Linux_Open_Tools
+- [Samba_For_ARM-HI3536](?file=400-Linux_Open_Tools/500-Samba_For_ARM-HI3536 "Samba_For_ARM-HI3536")
+
 ##### English_Study
 - [Index](?file=500-English_Study/00-Index "Index")
 - **Elementary-2**

@@ -57,6 +57,10 @@
 
 ## What
 
+	What would you like to do?
+	What's your/his/her (first)name?
+	What shall we do together?
+
 ##　When
 
 ## Where
