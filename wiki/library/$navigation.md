@@ -27,6 +27,7 @@
 - **Elementary-3**
     - [Unit-1](?file=500-English_Study/03-Elementary-3/01-Unit-1 "Unit-1")
     - [Unit-2](?file=500-English_Study/03-Elementary-3/02-Unit-2 "Unit-2")
+    - [Unit-3](?file=500-English_Study/03-Elementary-3/03-Unit-3 "Unit-3")
 
 ##### Translation
 - **Linux_Kernel_Doc**
