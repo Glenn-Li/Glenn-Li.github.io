@@ -50,14 +50,14 @@ make install
 
 	tar -czvf install.tar.gz install
 	把install.tar.gz上传到设备上/usr目录下
-	mkdir local
+	mkdir -p /usr/local/samba
 	tar -xf install.tar.gz
-	mv install/* local
+	mv install/* local/samba
 
 ## 启动smb服务
 
-	/usr/local/sbin/smbd -D
-	/usr/local/sbin/nmbd -D
+	/usr/local/samba/sbin/smbd -D
+	/usr/local/mamba/sbin/nmbd -D
 
 查看启动是否成功： ps | grep mbd
 
@@ -76,7 +76,7 @@ make install
 	/usr/local/sbin # ./smbd -D
 	./smbd: can't load library 'libtalloc.so.2'
 
-	解决：export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+	解决：export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/samba/lib
 
 启动服务是报一下错误，导致服务无法启动
 
@@ -87,6 +87,10 @@ make install
 
 
 * ERROR: failed to setup guest info.
+
+* ERROR: Failed to initialise messages database: No such file or directory
+
+![Failed to initialise messages database](assets/400/500-0b24fa88.png "Failed to initialise messages database")
 
 
 ### 交叉编译samba-4.5.1(失败)

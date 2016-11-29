@@ -1,6 +1,9 @@
 
 #### [HomePage](?file=HomePage "Return HomePage")
 
+##### General_Tools
+- [Atom_Install_and_Packages](?file=100-General_Tools/600-Atom_Install_and_Packages "Atom_Install_and_Packages")
+
 ##### U-boot
 - [Porting_for_Svr2730](?file=200-U-boot/500-Porting_for_Svr2730 "Porting_for_Svr2730")
 
@@ -13,6 +16,9 @@
 
 ##### Linux_Open_Tools
 - [Samba_For_ARM-HI3536](?file=400-Linux_Open_Tools/500-Samba_For_ARM-HI3536 "Samba_For_ARM-HI3536")
+
+##### General_Tools
+- [Atom_Install_and_Packages](?file=50-General_Tools/600-Atom_Install_and_Packages "Atom_Install_and_Packages")
 
 ##### English_Study
 - [Index](?file=500-English_Study/00-Index "Index")

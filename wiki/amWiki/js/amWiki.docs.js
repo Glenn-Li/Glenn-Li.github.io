@@ -160,7 +160,7 @@
                 url = 'library/' + encodeURI(path);
             }
         }
-        url += '.md?t=' + (new Date()).getTime();
+        url += '?t=' + (new Date()).getTime();
         return url;
     };
 
