@@ -13,6 +13,7 @@
 1. [9 设备上默认有的flash操纵相关命令工具](#9 设备上默认有的flash操纵相关命令工具 "9 设备上默认有的flash操纵相关命令工具")
 1. [10 常见问题](#10 常见问题 "10 常见问题")
 	1. [jffs2文件系统挂载异常报错](#jffs2文件系统挂载异常报错 "jffs2文件系统挂载异常报错")
+1. [小结](#小结 "小结")
 <!-- /TOC -->
 
 # Linux Kernel Support Mtd and Support Spi Nor Flash for His3536(sfc350)
@@ -208,3 +209,6 @@ dd： 可以直接与flash进行读写操作
 ![no data nodes found](assets/250/001-94cd2bd4.png "no data nodes found")
 
 一般是因为系统异常断电，分区内有数据不完整，将不需要写入数据的分区挂载成只读模式可以，需要写入数据的分区在写完数据后及时sync。
+
+## 小结
+这个有点复杂，总结不了。自己悟去吧。

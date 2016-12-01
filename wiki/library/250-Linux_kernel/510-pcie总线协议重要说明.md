@@ -26,3 +26,5 @@ communication platforms.
 PCI Express employs the same usage model and load-store communication model as PCI and PCI-X. PCI Express supports familiar transactions
 such as memory read/write, IO read/write and configuration read/write transactions. The memory, IO and configuration address space model is the same as
 PCI and PCI-X address spaces.
+
+未完待续...

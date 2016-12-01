@@ -7,6 +7,7 @@
 
 ##### U-boot
 - [Porting_for_Svr2730](?file=200-U-boot/500-Porting_for_Svr2730.md "Porting_for_Svr2730")
+- [U-boot下his3536_sfc350_SPI_norflash驱动](?file=200-U-boot/550-U-boot下his3536_sfc350_SPI_norflash驱动.md "U-boot下his3536_sfc350_SPI_norflash驱动")
 - [U-boot下的串口驱动支持](?file=200-U-boot/550-U-boot下的串口驱动支持.md "U-boot下的串口驱动支持")
 
 ##### Linux_kernel

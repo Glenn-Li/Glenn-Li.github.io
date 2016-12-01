@@ -12,6 +12,7 @@
 	1. [5.4 I2C驱动移植](#5.4 I2C驱动移植 "5.4 I2C驱动移植")
 	1. [5.5 ZL32067 时钟芯片驱动开发](#5.5 ZL32067 时钟芯片驱动开发 "5.5 ZL32067 时钟芯片驱动开发")
 	1. [5.6 FPGA加载](#5.6 FPGA加载 "5.6 FPGA加载")
+1. [小结](#小结 "小结")
 <!-- /TOC -->
 
 # Porting U-boot-2010-06 for svr2730(his3536)
@@ -67,7 +68,7 @@ svr2730 需要注意调试DDR参数、Spi Nor Flash 驱动支持、串口驱动�
 ### 5.2 Flash驱动调试
 仔细分析过驱动，看起来是不用修改的（后面补一个Flash驱动调试说明）。
 ### 5.3 串口驱动调试
-我认为不会有问题（后面补说明）。
+参考 [U-boot 串口驱动支持并分析](https://glenn-li.github.io/wiki/?file=200-U-boot/550-U-boot%E4%B8%8B%E7%9A%84%E4%B8%B2%E5%8F%A3%E9%A9%B1%E5%8A%A8%E6%94%AF%E6%8C%81.md)
 ### 5.4 I2C驱动移植
 添加控制器驱动代码：drivers/i2c/hi35xx_i2c.c
 
@@ -132,3 +133,8 @@ u-boot启动初始化过程中调用定义的setup接口：
 	fpga_gpio_cfg：gpio管脚方向和初始值
 	fpga_gpio_pinctl：配置相应管脚为gpio模式
 	FPGA ctrl pin：方便gpio_read 和 gpio_write 操作而定义的一组管脚
+
+
+## 小结
+
+要保持写小结的习惯。
