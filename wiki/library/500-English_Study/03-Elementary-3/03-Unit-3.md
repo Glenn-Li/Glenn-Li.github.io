@@ -5,6 +5,8 @@
 1. [Prt4: Telling a story about a bad experience](#Prt4: Telling a story about a bad experience "Prt4: Telling a story about a bad experience")
 	1. [Disasters and emergencies  灾难和紧急事件](#Disasters and emergencies  灾难和紧急事件 "Disasters and emergencies  灾难和紧急事件")
 	1. ['While' clauses with past continuous 搭配过去进行时的 'While' 从句](#'While' clauses with past continuous 搭配过去进行时的 'While' 从句 "'While' clauses with past continuous 搭配过去进行时的 'While' 从句")
+	1. [Sentence stress 句中重读](#Sentence stress 句中重读 "Sentence stress 句中重读")
+	1. [Listener expressions for stories 听众听故事的反应](#Listener expressions for stories 听众听故事的反应 "Listener expressions for stories 听众听故事的反应")
 <!-- /TOC -->
 
 # Unit 3 Telling Stories 讲述故事

@@ -164,24 +164,17 @@
  
 请使用类似以下的问题来询问别人一段关系。注意答复中表达式 +动名词的结构。
  
-	A: How are you and your brother doing?
-	B: We're doing well, thanks. We spend time talking on the phone.
-	你和你哥哥（弟弟）关系还好吗？
-	我们关系很好，谢谢。我们会花时间打电话聊天。
+	A: How are you and your brother doing?		你和你哥哥（弟弟）关系还好吗？
+	B: We're doing well, thanks. We spend time talking on the phone.		我们关系很好，谢谢。我们会花时间打电话聊天。
  	 	 
-	A: What do you and Sylvia do for fun?
-	B: Let's see … We have a lot of fun playing tennis together.
-	你和 Sylvia 都玩什么？
-	让我想想……我们一起打网球，玩得很开心。
+	A: What do you and Sylvia do for fun?		你和 Sylvia 都玩什么？
+	B: Let's see … We have a lot of fun playing tennis together.		让我想想……我们一起打网球，玩得很开心。
 
 您可以使用you two 表达密切的关系 - 例如，丈夫与妻子之间或母亲与孩子之前。
  
-	A: Are you two having trouble?
-	B: Yeah, we are. I am having trouble understanding her problems.
-	A: I'm sorry to hear that.
-	你们两人碰到什么难题了吗？
-	是的，我们碰到了难题。我难以理解她的问题。
-	听到这我很难过。
+	A: Are you two having trouble?		你们两人碰到什么难题了吗？
+	B: Yeah, we are. I am having trouble understanding her problems.		是的，我们碰到了难题。我难以理解她的问题。
+	A: I'm sorry to hear that.		听到这我很难过。
 
 ### Part 3：
 
@@ -198,7 +191,6 @@
 	works well with the team / team player	与团队/ 队员合作愉快
 	getting better	逐渐在改善
 	good in meetings	善于开会
-
 
 #### 使用这些形容词和短语来描述员工消极的工作品质。
  
@@ -254,15 +246,11 @@
 
 要征求别人的意见，您可以使用what do you think about 以及 do you think。
  
-	A: What do you think about Denise?  
-	B: She's very efficient.
-	您觉得Denise怎么样?
-	她很有效率。
+	A: What do you think about Denise?  		您觉得Denise怎么样?
+	B: She's very efficient.		她很有效率。
  	 	 
-	A: Do you think Paul is too disorganized?
-	B: No, not really.
-	您觉不觉得Paul这个人太混乱了?
-	不，不是的。
+	A: Do you think Paul is too disorganized?		您觉不觉得Paul这个人太混乱了?
+	B: No, not really.		不，不是的。
 
 语言注释：neither有两种发音方法。在下面的例子中，第一个在美国比较普遍的；第二种多见于英国。但它们可以互换使用。
  
@@ -321,9 +309,7 @@
  
 	Honestly, what are we going to do?    	说实话, 我们去干嘛?
 
-
 #### 'So' 和 'such'
-
 
 请用so + 形容词 或 so + 副词来强调个人品质。
  
