@@ -2,12 +2,14 @@
 #### [HomePage](?file=HomePage "Return HomePage")
 
 ##### General_Tools
+- [Vim中的CTRL-S问题解决方案](?file=100-General_Tools/200-Vim中的CTRL-S问题解决方案.md "Vim中的CTRL-S问题解决方案")
 - [Visio-2013把框图导出为图片](?file=100-General_Tools/300-Visio-2013把框图导出为图片.md "Visio-2013把框图导出为图片")
 - [Linux_tftp服务配置](?file=100-General_Tools/500-Linux_tftp服务配置.md "Linux_tftp服务配置")
 - [NFS服务安装配置](?file=100-General_Tools/501-NFS服务安装配置.md "NFS服务安装配置")
 - [搭建挂载NFS为跟文件系统的开发环境](?file=100-General_Tools/505-搭建挂载NFS为跟文件系统的开发环境.md "搭建挂载NFS为跟文件系统的开发环境")
 - [Atom_Install_and_Packages](?file=100-General_Tools/600-Atom_Install_and_Packages.md "Atom_Install_and_Packages")
 - [Pdf文件接触安全限制](?file=100-General_Tools/700-Pdf文件接触安全限制.md "Pdf文件接触安全限制")
+- [Win7系统如何拒绝用户Ping服务](?file=100-General_Tools/800-Win7系统如何拒绝用户Ping服务.md "Win7系统如何拒绝用户Ping服务")
 
 ##### U-boot
 - [Porting_for_Svr2730](?file=200-U-boot/500-Porting_for_Svr2730.md "Porting_for_Svr2730")
