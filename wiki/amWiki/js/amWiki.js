@@ -340,6 +340,8 @@ $(function () {
         changeNav(path);
         //首次打开改变页面
         changePage(path, true);
+	
+	$menuBar.find('h5').addClass('on').next('ul').show();
     });
 
     //history api 浏览器前进后退操作响应
@@ -354,5 +356,3 @@ $(function () {
     }
 
 });
-
-
