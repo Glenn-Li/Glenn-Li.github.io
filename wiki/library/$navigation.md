@@ -1,5 +1,5 @@
 
-#### [HomePage](?file=HomePage "Return HomePage")
+#### [HomePage](?file=HomePage.md "Return HomePage")
 
 ##### General_Tools
 - [Vim中的CTRL-S问题解决方案](?file=100-General_Tools/200-Vim中的CTRL-S问题解决方案.md "Vim中的CTRL-S问题解决方案")
@@ -43,6 +43,7 @@
     - [Unit-1](?file=500-English_Study/03-Elementary-3/01-Unit-1.md "Unit-1")
     - [Unit-2](?file=500-English_Study/03-Elementary-3/02-Unit-2.md "Unit-2")
     - [Unit-3](?file=500-English_Study/03-Elementary-3/03-Unit-3.md "Unit-3")
+    - [Unit-6](?file=500-English_Study/03-Elementary-3/06-Unit-6.md "Unit-6")
 
 ##### Translation
 - **Linux_Kernel_Doc**
