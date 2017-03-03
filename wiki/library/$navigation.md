@@ -28,6 +28,8 @@
 - [pcie总线协议重要说明](?file=250-Linux_kernel/510-pcie总线协议重要说明 "pcie总线协议重要说明")
 
 ##### Linux_Applications
+- [popen_md5sum](?file=300-Linux_Applications/200-popen_md5sum "popen_md5sum")
+- [内存锁实现](?file=300-Linux_Applications/300-内存锁实现 "内存锁实现")
 - [跟文件系统制作之Ramfs](?file=300-Linux_Applications/400-跟文件系统制作之Ramfs "跟文件系统制作之Ramfs")
 - [如何区分Ext2_3_4文件系统](?file=300-Linux_Applications/500-如何区分Ext2_3_4文件系统 "如何区分Ext2_3_4文件系统")
 
@@ -54,6 +56,7 @@
     - [Unit3-Telling_Stories](?file=500-English_Study/03-Elementary-3/03-Unit3-Telling_Stories "Unit3-Telling_Stories")
     - [Unit4-Going_To_A_Restaurant](?file=500-English_Study/03-Elementary-3/04-Unit4-Going_To_A_Restaurant "Unit4-Going_To_A_Restaurant")
     - [unit4-Going_To_A_Restaurant-Arya](?file=500-English_Study/03-Elementary-3/04_unit4-Going_To_A_Restaurant-Arya "unit4-Going_To_A_Restaurant-Arya")
+    - [Unit5-Movies](?file=500-English_Study/03-Elementary-3/05-Unit5-Movies "Unit5-Movies")
     - [Unit6-Clothes_And_Outfits](?file=500-English_Study/03-Elementary-3/06-Unit6-Clothes_And_Outfits "Unit6-Clothes_And_Outfits")
 
 ##### Translation
