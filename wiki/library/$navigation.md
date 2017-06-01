@@ -62,6 +62,9 @@
     - [Unit5-Movies](?file=500-English_Study/03-Elementary-3/05-Unit5-Movies.md "Unit5-Movies")
     - [Unit6-Clothes_And_Outfits](?file=500-English_Study/03-Elementary-3/06-Unit6-Clothes_And_Outfits.md "Unit6-Clothes_And_Outfits")
 - **Elementary-4**
+    - [Unit1_Communicating_at_work](?file=500-English_Study/04-Elementary-4/01-Unit1_Communicating_at_work.md "Unit1_Communicating_at_work")
+    - [Unit2_Going_to_the_doctor's](?file=500-English_Study/04-Elementary-4/02-Unit2_Going_to_the_doctor's.md "Unit2_Going_to_the_doctor's")
+    - [Unit3_Problems_and_solutions](?file=500-English_Study/04-Elementary-4/03-Unit3_Problems_and_solutions.md "Unit3_Problems_and_solutions")
 
 ##### Translation
 - **Linux_Kernel_Doc**
