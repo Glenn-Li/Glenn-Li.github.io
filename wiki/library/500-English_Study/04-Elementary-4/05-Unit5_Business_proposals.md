@@ -1,3 +1,20 @@
+<!-- TOC depthFrom:0 depthTo:4 withLinks:1 updateOnSave:1 orderedList:1 -->
+# Unit 5 Business proposals 商务方案
+>1. [Part 1: Describing a business situation](#Part 1: Describing a business situation "Part 1: Describing a business situation")
+	1. [特殊不定式短语](#特殊不定式短语 "特殊不定式短语")
+	1. [表达原因与结果](#表达原因与结果 "表达原因与结果")
+	1. [谈论上升和下降](#谈论上升和下降 "谈论上升和下降")
+1. [Part 2: Discussing possible solutions](#Part 2: Discussing possible solutions "Part 2: Discussing possible solutions")
+	1. [含有 'think'和'believe'的从句](#含有 'think'和'believe'的从句 "含有 'think'和'believe'的从句")
+	1. [表达观点](#表达观点 "表达观点")
+	1. [请求重复、澄清和确认](#请求重复、澄清和确认 "请求重复、澄清和确认")
+1. [Part 3: Making a proposal](#Part 3: Making a proposal "Part 3: Making a proposal")
+	1. [动词变为名词](#动词变为名词 "动词变为名词")
+	1. ['propose' 和 'suggest' 后的从句](#'propose' 和 'suggest' 后的从句 "'propose' 和 'suggest' 后的从句")
+1. [Part 4: Writing a short business proposal](#Part 4: Writing a short business proposal "Part 4: Writing a short business proposal")
+	1. [表达担心与忧虑](#表达担心与忧虑 "表达担心与忧虑")
+	1. [谈论优点和缺点](#谈论优点和缺点 "谈论优点和缺点")
+<!-- /TOC -->
 
 # Unit 5 Business proposals 商务方案
 

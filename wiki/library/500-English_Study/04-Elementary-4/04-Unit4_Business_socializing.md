@@ -1,5 +1,23 @@
-
+<!-- TOC depthFrom:0 depthTo:4 withLinks:1 updateOnSave:1 orderedList:1 -->
 # Business socializing
+>1. [Part 1: Welcoming business guests](#Part 1: Welcoming business guests "Part 1: Welcoming business guests")
+	1. [反意疑问句](#反意疑问句 "反意疑问句")
+	1. [反意疑问句的语调](#反意疑问句的语调 "反意疑问句的语调")
+	1. [对话管理](#对话管理 "对话管理")
+1. [Part 2: Attending a networking event](#Part 2: Attending a networking event "Part 2: Attending a networking event")
+	1. [对话话题](#对话话题 "对话话题")
+	1. [闲聊寒暄](#闲聊寒暄 "闲聊寒暄")
+	1. [找出共识](#找出共识 "找出共识")
+1. [Part 3: Making a business contact](#Part 3: Making a business contact "Part 3: Making a business contact")
+	1. [否定前缀](#否定前缀 "否定前缀")
+	1. [提供你的公司的信息](#提供你的公司的信息 "提供你的公司的信息")
+1. [Part 4: Summarizing a networking event](#Part 4: Summarizing a networking event "Part 4: Summarizing a networking event")
+	1. [肯定反意疑问句](#肯定反意疑问句 "肯定反意疑问句")
+	1. [表达犹豫的观点](#表达犹豫的观点 "表达犹豫的观点")
+	1. [总结](#总结 "总结")
+<!-- /TOC -->
+
+# Unit 4 Business socializing
 
 ## Part 1: Welcoming business guests
 
